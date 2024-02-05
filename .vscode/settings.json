@@ -1,0 +1,16 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "[cpp,h]": {
+        "editor.tabSize": 2,
+    },
+    "[json]": {
+        "editor.tabSize": 4,
+    },
+    "[makefile]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false
+    },
+    "[markdown]": {
+        "editor.tabSize": 4,
+    }
+}
